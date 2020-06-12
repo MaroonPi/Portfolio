@@ -1,14 +1,13 @@
-## Welcome to GitHub Pages
+## Hi, I'm Poornima.
 
-You can use the [editor on GitHub](https://github.com/MaroonPi/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a recent graduate from University of Southern California, with a Masters degree in Computer Science. I'm interested in game development, augmented and virtual reality, machine learning and full-stack development. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Skills:
 
-### Markdown
+Programming Languages: C++, Python, C#, JavaScript, Java
+Game Development: Unity 3D, Unreal Engine 4, 3D Math, OpenGL
+Full Stack Development: Node.js, React, AWS, Android
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +23,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
