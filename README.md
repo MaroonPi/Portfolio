@@ -1,35 +1,10 @@
-## Hi, I'm Poornima.
+## Hi! I'm Poornima.
 
-I'm a recent graduate from University of Southern California, with a Masters degree in Computer Science. I'm interested in game development, augmented and virtual reality, machine learning and full-stack development. 
+I'm a recent graduate from University of Southern California, with a Masters degree in Computer Science. I'm interested in game development, augmented and virtual reality, machine learning and full stack development. [Here](https://drive.google.com/file/d/10iBj7J686NH_zLply4gchpBKfzqmh8Jn/view) is my resume. You can also find me on [LinkedIn](https://www.linkedin.com/in/poornima-raj/) and my projects on GitHub(https://github.com/MaroonPi).
 
-### My Skills:
 
-Programming Languages: C++, Python, C#, JavaScript, Java
-Game Development: Unity 3D, Unreal Engine 4, 3D Math, OpenGL
-Full Stack Development: Node.js, React, AWS, Android
+## World In A Cell
 
-Syntax highlighted code block
+## TriVR
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaroonPi/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## PrimeEngine - CSCI 522: Game Engine Development
