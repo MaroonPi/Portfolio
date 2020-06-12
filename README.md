@@ -8,3 +8,7 @@ I'm a recent graduate from University of Southern California, with a Masters deg
 ## TriVR
 
 ## PrimeEngine - CSCI 522: Game Engine Development
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaroonPi/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
